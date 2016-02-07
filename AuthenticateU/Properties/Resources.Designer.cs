@@ -8,6 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
+
 namespace AuthenticateU.Properties
 {
 
@@ -32,6 +33,7 @@ namespace AuthenticateU.Properties
         [global::System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1811:AvoidUncalledPrivateCode")]
         internal Resources()
         {
+
         }
 
         /// <summary>
